@@ -1,0 +1,29 @@
+html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+  .page-item:visited { background-color: blue; } 
+  .mar { 
+    margin-left: 300px;
+    margin-top: 43px;
+   } 
+
+    @media screen and (max-width: 990px) {
+   .mar {
+        margin-left: 0;
+      }
+    }
+
+    .bg-secondary {
+      --bs-bg-opacity: 0.10;
+      background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+    }
+    td {
+      text-align: center;
+    }
+    .bg-actived {
+      background-color: darkblue;
+    }
+    a {
+      text-decoration: none;
+    }
+    ul {
+      list-style: none;
+    }
