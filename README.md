@@ -4,8 +4,10 @@
 
 Aplikasi ini dibuat dengan mvc php kerangka sendiri.
 ## Tampilan Admin
-<img src="./Demo User.jpeg" width="100%" height="500" />
+<img src="./Demo Admin.jpeg" width="100%" height="500" />
 
+## Tampilan User
+<img src="./Demo User.jpeg" width="100%" height="500" />
 
 ## Fitur - Fitur
 ### Fitur Admin
